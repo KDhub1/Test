@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://KDhub1.github.io/Test/annotations/annotations.json" ],
+  "@id" : "https://KDhub1.github.io/Test/annotations/collection.json",
+  "label" : "All annotations loaded in KDhub1/Test project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
